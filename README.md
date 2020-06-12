@@ -1,4 +1,4 @@
-# spark-jdbc-mssql
+# spark-jdbc-mysql
 **Connect to SQL Server using Apache Spark**
 
 
